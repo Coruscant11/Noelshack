@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Noelshack</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="share">Share</string>
+    <string name="open">Open</string>
+    <string name="selectPicture">Select a picture</string>
+    <string name="takePhoto">Use camera</string>
+    <string name="copied">The url was copied to the clipboard</string>
+    <string name="the">The</string>
+    <string name="at">at</string>
+    <string name="fewSec">Just a few seconds...</string>
+    <string name="wait">We send your picture(s)</string>
+    <string name="waitCard">Updating history</string>
+    <string name="action_deleteHistory">Delete history</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-2729131491400587/7375214150</string>
+    <string name="testHistory">Test history</string>
+    <string name="dialogLongClickTitle">Choose</string>
+    <string name="dialogLongClickMsg">What do you want to do ?</string>
+    <string name="close">Close</string>
+    <string name="finished">Finished</string>
+    <string name="progress">Upload in progress</string>
+    <string name="sendMultipleImage">Send multiple pictures</string>
+    <string name="sendBackground">Send picture in background</string>
+</resources>

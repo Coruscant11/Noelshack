@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Noelshack</string>
+    <string name="action_deleteHistory">Supprimer l\'historique</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="at">à</string>
+    <string name="copied">Le lien a été copié dans le presse-papier</string>
+    <string name="fewSec">Une petite seconde...</string>
+    <string name="hello_world">Bonjour le monde!</string>
+    <string name="open">Ouvrir</string>
+    <string name="selectPicture">Choisir une image</string>
+    <string name="share">Partager</string>
+    <string name="takePhoto">Utiliser la caméra</string>
+    <string name="the">Le</string>
+    <string name="wait">Nous envoyons vos images</string>
+    <string name="waitCard">Mise a jour de l\'historique</string>
+    <string name="testHistory">Tester l\'historique</string>
+    <string name="close">Fermer</string>
+    <string name="dialogLongClickMsg">Que voulez-vous faire ?</string>
+    <string name="dialogLongClickTitle">Choisissez</string>
+    <string name="finished">Upload terminé</string>
+    <string name="progress">Envoie de l\'image</string>
+    <string name="sendMultipleImage">Envoyer plusieurs image</string>
+    <string name="sendBackground">Envoyer l\'image en arrière-plan</string>
+</resources>

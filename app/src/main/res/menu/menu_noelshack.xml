@@ -1,0 +1,22 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Noelshack">
+
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_testHistory"
+        android:title="@string/testHistory"
+        android:orderInCategory="200"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_deleteHistory"
+        android:title="@string/action_deleteHistory"
+        android:icon="@drawable/ic_action_trash"
+        android:orderInCategory="300"
+        app:showAsAction="ifRoom" />
+</menu>

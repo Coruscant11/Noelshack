@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ecf0f1</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="red">#DA4336</color>
+    <color name="veryRed">#FF0000</color>
+    <color name="redDark">#B82F1D</color>
+    <color name="orange">#FF9D0D</color>
+    <color name="orangeDark">#F5820D</color>
+    <color name="red_pressed">#ec407a</color>
+    <color name="pink">#e91e63</color>
+    <color name="pink_pressed">#ec407a</color>
+</resources>
